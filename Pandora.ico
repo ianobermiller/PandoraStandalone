@@ -1,0 +1,1087 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+ <script type="text/javascript">
+ 
+ 
+ 
+ var codesite_token = "9a6bf66d7bbb31d46b50cadce41889ca";
+ 
+ 
+ var logged_in_user_email = "ian320@gmail.com";
+ 
+ </script>
+ 
+ 
+ <title>Pandora.ico - 
+ openpandora -
+ 
+ Project Hosting on Google Code</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+ 
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/1947537347154300628/css/ph_core.css">
+ 
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/1947537347154300628/css/ph_detail.css" >
+ 
+ 
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/1947537347154300628/css/d_sb_20080522.css" >
+ 
+ 
+ 
+<!--[if IE]>
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/1947537347154300628/css/d_ie.css" >
+<![endif]-->
+</head>
+<body class="t4">
+ <div id="gaia">
+ 
+ <span>
+ 
+ <b>ian320@gmail.com</b>
+ 
+ 
+ | <a href="/u/ian320/" id="projects-dropdown" onclick="return false;">My favorites</a><img width="14" height="14" class="menuIcon off" id="menuIcon-projects-dropdown" src="http://www.gstatic.com/codesite/ph/images/cleardot.gif"/>
+ 
+ | <a href="/u/ian320/" onclick="_CS_click('/gb/ph/profile');" title="Profile, Updates, and Settings">Profile</a>
+ | <a href="http://www.google.com/accounts/Logout?continue=http%3A%2F%2Fcode.google.com%2Fp%2Fopenpandora%2Fsource%2Fbrowse%2Ftrunk%2FOpenPandora%2FBitmap%2FPandora.ico" onclick="_CS_click('/gb/ph/signout');">Sign out</a>
+ 
+ </span>
+
+ </div>
+ <div class="gbh" style="left: 0pt;"></div>
+ <div class="gbh" style="right: 0pt;"></div>
+ 
+ 
+ <div style="height: 1px"></div>
+<!--[if IE 6]>
+<div style="text-align:center;">
+Support browsers that contribute to open source, try <a href="http://www.firefox.com">Firefox</a> or <a href="http://www.google.com/chrome">Google Chrome</a>.
+</div>
+<![endif]-->
+ <table style="padding:0px; margin: 20px 0px 0px 0px; width:100%" cellpadding="0" cellspacing="0">
+ <tr style="height: 58px;">
+ <td style="width: 55px; text-align:center;">
+ <a href="/p/openpandora/">
+ 
+ 
+ 
+ <img src="http://www.gstatic.com/codesite/ph/images/defaultlogo.png"
+ alt="Project Logo">
+ 
+ 
+ 
+ </a>
+ </td>
+ <td style="padding-left: 0.8em">
+ 
+ <div id="pname" style="margin: 0px 0px -3px 0px">
+ <a href="/p/openpandora/" style="text-decoration:none; color:#000">openpandora</a>
+ </div>
+ <div id="psum">
+ <i><a id="project_summary_link" href="/p/openpandora/" style="text-decoration:none; color:#000">Windows Pandora Player</a></i>
+ </div>
+ 
+ </td>
+ <td style="white-space:nowrap; text-align:right">
+ 
+ <form action="/hosting/search">
+ <input size="30" name="q" value="">
+ <input type="submit" name="projectsearch" value="Search projects" >
+ </form>
+ 
+ </tr>
+ </table>
+
+
+
+ <table id="mt" cellspacing="0" cellpadding="0" width="100%" border="0">
+ <tr>
+ <th onclick="if (!cancelBubble) _go('/p/openpandora/');">
+ <div class="tab inactive">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <a onclick="cancelBubble=true;" href="/p/openpandora/">Project&nbsp;Home</a>
+ </div>
+ </div>
+ </th><td>&nbsp;&nbsp;</td>
+ 
+ 
+ 
+ 
+ <th onclick="if (!cancelBubble) _go('/p/openpandora/downloads/list');">
+ <div class="tab inactive">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <a onclick="cancelBubble=true;" href="/p/openpandora/downloads/list">Downloads</a>
+ </div>
+ </div>
+ </th><td>&nbsp;&nbsp;</td>
+ 
+ 
+ 
+ 
+ 
+ <th onclick="if (!cancelBubble) _go('/p/openpandora/w/list');">
+ <div class="tab inactive">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <a onclick="cancelBubble=true;" href="/p/openpandora/w/list">Wiki</a>
+ </div>
+ </div>
+ </th><td>&nbsp;&nbsp;</td>
+ 
+ 
+ 
+ 
+ 
+ <th onclick="if (!cancelBubble) _go('/p/openpandora/issues/list');">
+ <div class="tab inactive">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <a onclick="cancelBubble=true;" href="/p/openpandora/issues/list">Issues</a>
+ </div>
+ </div>
+ </th><td>&nbsp;&nbsp;</td>
+ 
+ 
+ 
+ 
+ 
+ <th onclick="if (!cancelBubble) _go('/p/openpandora/source/browse/');">
+ <div class="tab active">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <a onclick="cancelBubble=true;" href="/p/openpandora/source/browse/">Source</a>
+ </div>
+ </div>
+ </th><td>&nbsp;&nbsp;</td>
+ 
+ 
+ <td width="100%">&nbsp;</td>
+ </tr>
+</table>
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0" class="st">
+ <tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ <td>
+ <div class="st2">
+ <div class="isf">
+ 
+ 
+ 
+ <span class="inst1"><a href="/p/openpandora/source/checkout">Checkout</a></span> |
+ <span class="inst2"><a href="/p/openpandora/source/browse/">Browse</a></span> |
+ <span class="inst3"><a href="/p/openpandora/source/list">Changes</a></span> |
+ 
+ <form action="http://www.google.com/codesearch" method="get" style="display:inline"
+ onsubmit="document.getElementById('codesearchq').value = document.getElementById('origq').value + ' package:http://openpandora\\.googlecode\\.com'">
+ <input type="hidden" name="q" id="codesearchq" value="">
+ <input maxlength="2048" size="35" id="origq" name="origq" value="" title="Google Code Search" style="font-size:92%">&nbsp;<input type="submit" value="Search Trunk" name="btnG" style="font-size:92%">
+ 
+ 
+ 
+ </form>
+ </div>
+</div>
+
+ </td>
+ 
+ 
+ 
+ 
+ 
+ <td height="4" align="right" valign="top" class="bevel-right">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ </td>
+ </tr>
+</table>
+<script type="text/javascript">
+ var cancelBubble = false;
+ function _go(url) { document.location = url; }
+</script>
+
+
+<div id="maincol"
+ 
+>
+
+ 
+<!-- IE -->
+
+
+
+<div class="expand">
+
+
+<style type="text/css">
+ #file_flipper { display: inline; float: right; white-space: nowrap; }
+ #file_flipper.hidden { display: none; }
+ #file_flipper .pagelink { color: #0000CC; text-decoration: underline; }
+ #file_flipper #visiblefiles { padding-left: 0.5em; padding-right: 0.5em; }
+</style>
+<div id="nav_and_rev" class="heading">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner" id="bub">
+ <div class="bub-top">
+ <div class="pagination" style="margin-left: 2em">
+ <table cellpadding="0" cellspacing="0" class="flipper">
+ <tbody>
+ <tr>
+ 
+ <td><b>r101</b></td>
+ 
+ </tr>
+ </tbody>
+ </table>
+ </div>
+ 
+ <div class="" style="vertical-align: top">
+ <div class="src_crumbs src_nav">
+ <strong class="src_nav">Source path:&nbsp;</strong>
+ <span id="crumb_root">
+ 
+ <a href="/p/openpandora/source/browse/">svn</a>/&nbsp;</span>
+ <span id="crumb_links" class="ifClosed"><a href="/p/openpandora/source/browse/trunk/">trunk</a><span class="sp">/&nbsp;</span><a href="/p/openpandora/source/browse/trunk/OpenPandora/">OpenPandora</a><span class="sp">/&nbsp;</span><a href="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/">Bitmap</a><span class="sp">/&nbsp;</span>Pandora.ico</span>
+ 
+ 
+ </div>
+ 
+ </div>
+ <div style="clear:both"></div>
+ </div>
+ </div>
+</div>
+
+<style type="text/css">
+ 
+  tr.inline_comment {
+ background: #fff;
+ vertical-align: top;
+ }
+ div.draft, div.published {
+ padding: .3em;
+ border: 1px solid #999; 
+ margin-bottom: .1em;
+ font-family: arial, sans-serif;
+ max-width: 60em;
+ }
+ div.draft {
+ background: #ffa;
+ } 
+ div.published {
+ background: #e5ecf9;
+ }
+ div.published .body, div.draft .body {
+ padding: .5em .1em .1em .1em;
+ max-width: 60em;
+ white-space: pre-wrap;
+ white-space: -moz-pre-wrap;
+ white-space: -pre-wrap;
+ white-space: -o-pre-wrap;
+ word-wrap: break-word;
+ }
+ div.draft .actions {
+ margin-left: 1em;
+ font-size: 90%;
+ }
+ div.draft form {
+ padding: .5em .5em .5em 0;
+ }
+ div.draft textarea, div.published textarea {
+ width: 95%;
+ height: 10em;
+ font-family: arial, sans-serif;
+ margin-bottom: .5em;
+ }
+
+
+ 
+ .nocursor, .nocursor td, .cursor_hidden, .cursor_hidden td {
+ background-color: white;
+ height: 2px;
+ }
+ .cursor, .cursor td {
+ background-color: darkblue;
+ height: 2px;
+ display: '';
+ }
+
+</style>
+<div class="fc">
+ 
+
+
+ <p><em>
+ 
+ This file is not plain text (only UTF-8 and Latin-1 text encodings are currently supported).
+ 
+ </em></p>
+
+
+
+ <div id="log">
+ <div style="text-align:right">
+ <a class="ifCollapse" href="#" onclick="_toggleMeta('openpandora', this)">Show details</a>
+ <a class="ifExpand" href="#" onclick="_toggleMeta('openpandora', this)">Hide details</a>
+ </div>
+ <div class="ifExpand">
+ 
+ <div class="pmeta_bubble_bg" style="border:1px solid white">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <div id="changelog">
+ <p>Change log</p>
+ <div>
+ <a href="/p/openpandora/source/detail?spec=svn101&r=2">r2</a>
+ by eitanpo
+ on Nov 19, 2006
+ &nbsp; <a href="/p/openpandora/source/diff?spec=svn101&r=2&amp;format=side&amp;path=/trunk/OpenPandora/Bitmap/Pandora.ico&amp;old_path=/trunk/OpenPandora/Bitmap/Pandora.ico&amp;old=">Diff</a>
+ </div>
+ <pre>
+</pre>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ <script type="text/javascript">
+ var detail_url = '/p/openpandora/source/detail?r=2&spec=svn101';
+ var publish_url = '/p/openpandora/source/detail?r=2&spec=svn101#publish';
+ // describe the paths of this revision in javascript.
+ var changed_paths = [];
+ var changed_urls = [];
+ 
+ changed_paths.push('/trunk/OpenPandora');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora.sln');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora.sln?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/About.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/About.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/About.resx');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/About.resx?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/App.config');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/App.config?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/AssemblyInfo.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/AssemblyInfo.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Audioscrobbler.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Audioscrobbler.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Bitmap');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Bitmap?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Bitmap/ButtonExit.bmp');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/ButtonExit.bmp?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Bitmap/ButtonMinimize.bmp');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/ButtonMinimize.bmp?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Bitmap/Pandora.ico');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/Pandora.ico?r=2&spec=svn101');
+ 
+ var selected_path = '/trunk/OpenPandora/Bitmap/Pandora.ico';
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Bitmap/Pandora16.ico');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/Pandora16.ico?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Bitmap/PandoraLoading.bmp');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/PandoraLoading.bmp?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Configuration.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Configuration.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Enums.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Enums.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Manager.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Manager.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Messenger');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Messenger?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Messenger/Messenger.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Messenger/Messenger.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/OpenPandora.csproj');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/OpenPandora.csproj?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Pandora.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Pandora.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Pandora16.bmp');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Pandora16.bmp?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/PandoraTuner.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/PandoraTuner.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Player.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Player.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Player.resx');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Player.resx?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/SettingsView.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/SettingsView.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/SettingsView.resx');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/SettingsView.resx?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Setup');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Setup?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Setup/OpenPandora.nsi');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Setup/OpenPandora.nsi?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Site');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Site?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Site/release_notes.txt');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Site/release_notes.txt?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Song.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Song.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Station.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Station.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/StationLoader.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/StationLoader.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/WebForm.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/WebForm.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/WebForm.resx');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/WebForm.resx?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32/NotifyIconBaloon.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32/NotifyIconBaloon.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32/Shell32.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32/Shell32.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32/User32.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32/User32.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32/WindowsHook.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32/WindowsHook.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32/WindowsHookCode.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32/WindowsHookCode.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Win32/WindowsMessageCode.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Win32/WindowsMessageCode.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Xfire');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Xfire?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/Xfire/Xfire.cs');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/Xfire/Xfire.cs?r=2&spec=svn101');
+ 
+ 
+ changed_paths.push('/trunk/OpenPandora/license.txt');
+ changed_urls.push('/p/openpandora/source/browse/trunk/OpenPandora/license.txt?r=2&spec=svn101');
+ 
+ 
+ function getCurrentPageIndex() {
+ for (var i = 0; i < changed_paths.length; i++) {
+ if (selected_path == changed_paths[i]) {
+ return i;
+ }
+ }
+ }
+ function getNextPage() {
+ var i = getCurrentPageIndex();
+ if (i < changed_paths.length - 1) {
+ return changed_urls[i + 1];
+ }
+ return null;
+ }
+ function getPreviousPage() {
+ var i = getCurrentPageIndex();
+ if (i > 0) {
+ return changed_urls[i - 1];
+ }
+ return null;
+ }
+ function gotoNextPage() {
+ var page = getNextPage();
+ if (!page) {
+ page = detail_url;
+ }
+ window.location = page;
+ }
+ function gotoPreviousPage() {
+ var page = getPreviousPage();
+ if (!page) {
+ page = detail_url;
+ }
+ window.location = page;
+ }
+ function gotoDetailPage() {
+ window.location = detail_url;
+ }
+ function gotoPublishPage() {
+ window.location = publish_url;
+ }
+</script>
+ 
+ <style type="text/css">
+ #review_nav {
+ border-top: 3px solid white;
+ padding-top: 6px;
+ margin-top: 1em;
+ }
+ #review_nav td {
+ vertical-align: middle;
+ }
+ #review_nav select {
+ margin: .5em 0;
+ }
+ </style>
+ <div id="review_nav">
+ <table><tr><td>Go to:&nbsp;</td><td>
+ <select name="files_in_rev" onchange="window.location=this.value">
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora.sln?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora.sln</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/About.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/About.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/About.resx?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/About.resx</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/App.config?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/App.config</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/AssemblyInfo.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/AssemblyInfo.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Audioscrobbler.cs?r=2&amp;spec=svn101"
+ 
+ >...nk/OpenPandora/Audioscrobbler.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Bitmap</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/ButtonExit.bmp?r=2&amp;spec=svn101"
+ 
+ >...penPandora/Bitmap/ButtonExit.bmp</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/ButtonMinimize.bmp?r=2&amp;spec=svn101"
+ 
+ >...andora/Bitmap/ButtonMinimize.bmp</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/Pandora.ico?r=2&amp;spec=svn101"
+ selected="selected"
+ >...k/OpenPandora/Bitmap/Pandora.ico</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/Pandora16.ico?r=2&amp;spec=svn101"
+ 
+ >...OpenPandora/Bitmap/Pandora16.ico</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Bitmap/PandoraLoading.bmp?r=2&amp;spec=svn101"
+ 
+ >...andora/Bitmap/PandoraLoading.bmp</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Configuration.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Configuration.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Enums.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Enums.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Manager.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Manager.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Messenger?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Messenger</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Messenger/Messenger.cs?r=2&amp;spec=svn101"
+ 
+ >...enPandora/Messenger/Messenger.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/OpenPandora.csproj?r=2&amp;spec=svn101"
+ 
+ >...k/OpenPandora/OpenPandora.csproj</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Pandora.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Pandora.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Pandora16.bmp?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Pandora16.bmp</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/PandoraTuner.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/PandoraTuner.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Player.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Player.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Player.resx?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Player.resx</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/SettingsView.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/SettingsView.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/SettingsView.resx?r=2&amp;spec=svn101"
+ 
+ >...nk/OpenPandora/SettingsView.resx</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Setup?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Setup</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Setup/OpenPandora.nsi?r=2&amp;spec=svn101"
+ 
+ >...penPandora/Setup/OpenPandora.nsi</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Site?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Site</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Site/release_notes.txt?r=2&amp;spec=svn101"
+ 
+ >...enPandora/Site/release_notes.txt</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Song.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Song.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Station.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Station.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/StationLoader.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/StationLoader.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/WebForm.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/WebForm.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/WebForm.resx?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/WebForm.resx</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Win32</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32/NotifyIconBaloon.cs?r=2&amp;spec=svn101"
+ 
+ >...andora/Win32/NotifyIconBaloon.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32/Shell32.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Win32/Shell32.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32/User32.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Win32/User32.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32/WindowsHook.cs?r=2&amp;spec=svn101"
+ 
+ >...OpenPandora/Win32/WindowsHook.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32/WindowsHookCode.cs?r=2&amp;spec=svn101"
+ 
+ >...Pandora/Win32/WindowsHookCode.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Win32/WindowsMessageCode.cs?r=2&amp;spec=svn101"
+ 
+ >...dora/Win32/WindowsMessageCode.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Xfire?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Xfire</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/Xfire/Xfire.cs?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/Xfire/Xfire.cs</option>
+ 
+ <option value="/p/openpandora/source/browse/trunk/OpenPandora/license.txt?r=2&amp;spec=svn101"
+ 
+ >/trunk/OpenPandora/license.txt</option>
+ 
+ </select>
+ </td></tr></table>
+ 
+ 
+ 
+
+
+
+
+ 
+ </div>
+ 
+ 
+ </div>
+ <div class="round1"></div>
+ <div class="round2"></div>
+ <div class="round4"></div>
+ </div>
+ <div class="pmeta_bubble_bg" style="border:1px solid white">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <div id="older_bubble">
+ <p>Older revisions</p>
+ 
+ <a href="/p/openpandora/source/list?path=/trunk/OpenPandora/Bitmap/Pandora.ico&start=2">All revisions of this file</a>
+ </div>
+ </div>
+ <div class="round1"></div>
+ <div class="round2"></div>
+ <div class="round4"></div>
+ </div>
+ <div class="pmeta_bubble_bg" style="border:1px solid white">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <div id="fileinfo_bubble">
+ <p>File info</p>
+ 
+ <div>Size: 8478 bytes</div>
+ 
+ <div><a href="http://openpandora.googlecode.com/svn/trunk/OpenPandora/Bitmap/Pandora.ico">View raw file</a></div>
+ </div>
+ 
+ <div id="props">
+ <p>File properties</p>
+ <dl>
+ 
+ <dt>svn:mime-type</dt>
+ <dd>application/octet-stream</dd>
+ 
+ </dl>
+ </div>
+ 
+ </div>
+ <div class="round1"></div>
+ <div class="round2"></div>
+ <div class="round4"></div>
+ </div>
+ </div>
+ </div>
+
+
+</div>
+</div>
+
+<script src="http://www.gstatic.com/codesite/ph/1947537347154300628/js/source_file_scripts_20080115.js"></script>
+
+ <script type="text/javascript" src="http://kibbles.googlecode.com/files/kibbles-1.3.1.comp.js"></script>
+ <script type="text/javascript">
+ var lastStop = null;
+ var initilized = false;
+ 
+ function updateCursor(next, prev) {
+ if (prev && prev.element) {
+ prev.element.className = 'cursor_stop cursor_hidden';
+ }
+ if (next && next.element) {
+ next.element.className = 'cursor_stop cursor';
+ lastStop = next.index;
+ }
+ }
+ 
+ function pubRevealed(data) {
+ updateCursorForCell(data.cellId, 'cursor_stop cursor_hidden');
+ if (initilized) {
+ reloadCursors();
+ }
+ }
+ 
+ function draftRevealed(data) {
+ updateCursorForCell(data.cellId, 'cursor_stop cursor_hidden');
+ if (initilized) {
+ reloadCursors();
+ }
+ }
+ 
+ function draftDestroyed(data) {
+ updateCursorForCell(data.cellId, 'nocursor');
+ if (initilized) {
+ reloadCursors();
+ }
+ }
+ function reloadCursors() {
+ kibbles.skipper.reset();
+ loadCursors();
+ if (lastStop != null) {
+ kibbles.skipper.setCurrentStop(lastStop);
+ }
+ }
+ // possibly the simplest way to insert any newly added comments
+ // is to update the class of the corresponding cursor row,
+ // then refresh the entire list of rows.
+ function updateCursorForCell(cellId, className) {
+ var cell = document.getElementById(cellId);
+ // we have to go two rows back to find the cursor location
+ var row = getPreviousElement(cell.parentNode);
+ row.className = className;
+ }
+ // returns the previous element, ignores text nodes.
+ function getPreviousElement(e) {
+ var element = e.previousSibling;
+ if (element.nodeType == 3) {
+ element = element.previousSibling;
+ }
+ if (element && element.tagName) {
+ return element;
+ }
+ }
+ function loadCursors() {
+ // register our elements with skipper
+ var elements = CR_getElements('*', 'cursor_stop');
+ var len = elements.length;
+ for (var i = 0; i < len; i++) {
+ var element = elements[i]; 
+ element.className = 'cursor_stop cursor_hidden';
+ kibbles.skipper.append(element);
+ }
+ }
+ function toggleComments() {
+ CR_toggleCommentDisplay();
+ reloadCursors();
+ }
+ function keysOnLoadHandler() {
+ // setup skipper
+ kibbles.skipper.addStopListener(
+ kibbles.skipper.LISTENER_TYPE.PRE, updateCursor);
+ // Set the 'offset' option to return the middle of the client area
+ // an option can be a static value, or a callback
+ kibbles.skipper.setOption('padding_top', 50);
+ // Set the 'offset' option to return the middle of the client area
+ // an option can be a static value, or a callback
+ kibbles.skipper.setOption('padding_bottom', 100);
+ // Register our keys
+ kibbles.skipper.addFwdKey("n");
+ kibbles.skipper.addRevKey("p");
+ kibbles.keys.addKeyPressListener(
+ 'u', function() { window.location = detail_url; });
+ kibbles.keys.addKeyPressListener(
+ 'r', function() { window.location = detail_url + '#publish'; });
+ 
+ kibbles.keys.addKeyPressListener('j', gotoNextPage);
+ kibbles.keys.addKeyPressListener('k', gotoPreviousPage);
+ 
+ 
+ }
+ window.onload = function() {keysOnLoadHandler();};
+ </script>
+
+
+<!-- code review support -->
+<script src="http://www.gstatic.com/codesite/ph/1947537347154300628/js/code_review_scripts_20081023.js"></script>
+<script type="text/javascript">
+ 
+ // the comment form template
+ var form = '<div class="draft"><div class="header"><span class="title">Draft comment:</span></div>' +
+ '<div class="body"><form onsubmit="return false;"><textarea id="$ID">$BODY</textarea><br>$ACTIONS</form></div>' +
+ '</div>';
+ // the comment "plate" template used for both draft and published comment "plates".
+ var draft_comment = '<div class="draft" ondblclick="$ONDBLCLICK">' +
+ '<div class="header"><span class="title">Draft comment:</span><span class="actions">$ACTIONS</span></div>' +
+ '<pre id="$ID" class="body">$BODY</pre>' +
+ '</div>';
+ var published_comment = '<div class="published">' +
+ '<div class="header"><span class="title"><a href="$PROFILE_URL">$AUTHOR:</a></span><div>' +
+ '<pre id="$ID" class="body">$BODY</pre>' +
+ '</div>';
+
+ function showPublishInstructions() {
+ var element = document.getElementById('review_instr');
+ if (element) {
+ element.className = 'opened';
+ }
+ }
+ function revsOnLoadHandler() {
+ // register our source container with the commenting code
+ var paths = {'svn2': '/trunk/OpenPandora/Bitmap/Pandora.ico'}
+ _setup('openpandora', 'svn101', paths, '9a6bf66d7bbb31d46b50cadce41889ca',
+ CR_BrowseIntegrationFactory);
+ // register our hidden ui elements with the code commenting code ui builder.
+ CR_registerLayoutElement('form', form);
+ CR_registerLayoutElement('draft_comment', draft_comment);
+ CR_registerLayoutElement('published_comment', published_comment);
+ 
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.REVEAL_DRAFT_PLATE, showPublishInstructions);
+ 
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.REVEAL_PUB_PLATE, pubRevealed);
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.REVEAL_DRAFT_PLATE, draftRevealed);
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.DISCARD_DRAFT_COMMENT, draftDestroyed);
+ 
+ 
+ 
+ 
+ var initilized = true;
+ reloadCursors();
+ }
+ window.onload = function() {keysOnLoadHandler(); revsOnLoadHandler();};
+</script>
+
+<script type="text/javascript" src="http://www.gstatic.com/codesite/ph/1947537347154300628/js/dit_scripts_20081013.js"></script>
+
+ 
+ <script type="text/javascript" src="http://www.gstatic.com/codesite/ph/1947537347154300628/js/core_scripts_20081103.js"></script>
+ <script type="text/javascript" src="/js/codesite_product_dictionary_ph.pack.04102009.js"></script>
+ 
+ 
+ 
+ 
+ 
+ </div>
+<div id="footer" dir="ltr">
+ 
+ <div class="text">
+ 
+ &copy;2009 Google -
+ <a href="/">Code Home</a> -
+ <a href="/tos.html">Terms of Service</a> -
+ <a href="http://www.google.com/privacy.html">Privacy Policy</a> -
+ <a href="/more/">Site Directory</a> -
+ <a href="/p/support/">Project Hosting Help</a>
+ 
+ </div>
+</div>
+<script type="text/javascript">
+/**
+ * Reports analytics.
+ * It checks for the analytics functionality (window._gat) every 100ms
+ * until the analytics script is fully loaded in order to invoke siteTracker.
+ */
+function _CS_reportAnalytics() {
+ window.setTimeout(function() {
+ if (window._gat) {
+ try {
+ siteTracker = _gat._getTracker(CS_ANALYTICS_ACCOUNT);
+ siteTracker._trackPageview();
+ } catch (e) {}
+ var projectTracker = _gat._getTracker("UA-364722-8");
+projectTracker._initData();
+projectTracker._trackPageview();
+ } else {
+ _CS_reportAnalytics();
+ }
+ }, 100);
+}
+</script>
+
+ 
+ 
+ <div class="hostedBy" style="margin-top: -20px;">
+ <span style="vertical-align: top;">Hosted by</span>
+ <a href="/hosting/">
+ <img src="http://www.gstatic.com/codesite/ph/images/google_code_tiny.png" width="107" height="24" alt="Google Code">
+ </a>
+ </div>
+ 
+ 
+ 
+ 
+
+
+ 
+ </body>
+</html>
+
